@@ -6,7 +6,7 @@ import java.sql.Time;
 import java.time.Duration;
 import java.util.Set;
 
-public class KeyReturnSearch {
+public class App_Tes(search_in_browser_using(return)) {
     WebDriver driver;
 
     @BeforeTest
