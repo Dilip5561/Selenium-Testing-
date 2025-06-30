@@ -27,7 +27,7 @@ import org.testng.Assert;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 
-public public class DragAndDropDemo {
+public public class App_Test(Drag_Drop) {
     WebDriver driver;
 
     @BeforeTest
