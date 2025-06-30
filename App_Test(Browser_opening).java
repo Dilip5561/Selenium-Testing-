@@ -26,7 +26,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class WebBrowserOpen {
+public class App_Test(Browser_opening) {
     WebDriver driver;
 
     @BeforeTest
